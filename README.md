@@ -1,3 +1,3 @@
 # angularjs_assignment
 
-# run assignment.html page
+# run application.html page
