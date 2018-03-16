@@ -1,3 +1,5 @@
 # angularjs_assignment
 
-# run application.html page
+# Purpose
+
+In this application list of Posts, comments and albums can be viewed. Also the user can post comments.
